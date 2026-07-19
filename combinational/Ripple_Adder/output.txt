@@ -1,0 +1,11 @@
+
+# time=0,a=9a,b=92,cin=0,sum=2c,cout=1
+# time=10,a=af,b=40,cin=1,sum=f0,cout=0
+# time=20,a=6b,b=04,cin=1,sum=70,cout=0
+# time=30,a=2b,b=31,cin=1,sum=5d,cout=0
+# time=40,a=bd,b=86,cin=1,sum=44,cout=1
+# time=50,a=cc,b=c6,cin=1,sum=93,cout=1
+# time=60,a=42,b=32,cin=1,sum=75,cout=0
+# time=70,a=a9,b=09,cin=0,sum=b2,cout=0
+# time=80,a=f1,b=80,cin=1,sum=72,cout=1
+# time=90,a=e6,b=86,cin=1,sum=6d,cout=1
