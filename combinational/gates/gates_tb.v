@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module tb;
 reg a,b;
 wire y_not,y_buf,y_and,y_or,y_nor,y_nand,y_xor,y_xnor;
