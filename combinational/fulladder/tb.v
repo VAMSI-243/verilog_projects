@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module tb;
 reg a,b,cin;
 wire sum,cout;
