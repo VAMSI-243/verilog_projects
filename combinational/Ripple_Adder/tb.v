@@ -1,4 +1,4 @@
-
+`timescale 1ns / 1ps
 module tb;
 parameter N=8;
 reg [N-1:0]a,b;
