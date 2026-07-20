@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module tb;
 reg [1:0]i;
 reg s;
