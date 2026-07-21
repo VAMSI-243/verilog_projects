@@ -1,0 +1,5 @@
+
+# time=10,a=0,b=0,y_and=0, y_or=0, y_nand=1, y_nor=1, y_xor=0, y_xnor=1
+# time=20,a=0,b=1,y_and=0, y_or=1, y_nand=1, y_nor=0, y_xor=1, y_xnor=0
+# time=30,a=1,b=0,y_and=0, y_or=1, y_nand=1, y_nor=0, y_xor=1, y_xnor=0
+# time=40,a=1,b=1,y_and=1, y_or=1, y_nand=0, y_nor=0, y_xor=0, y_xnor=1
