@@ -1,0 +1,18 @@
+         encoder
+
+# time=10,i=0000,y=xx 
+# time=20,i=0001,y=00 
+# time=30,i=0010,y=01 
+# time=40,i=0011,y=xx 
+# time=50,i=0100,y=10 
+# time=60,i=0101,y=xx 
+# time=70,i=0110,y=xx 
+# time=80,i=0111,y=xx 
+# time=90,i=1000,y=11 
+# time=100,i=1001,y=xx 
+# time=110,i=1010,y=xx 
+# time=120,i=1011,y=xx 
+# time=130,i=1100,y=xx 
+# time=140,i=1101,y=xx 
+# time=150,i=1110,y=xx 
+# time=160,i=1111,y=xx 
