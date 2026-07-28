@@ -3,7 +3,7 @@ integer N;
 integer i,j;
 integer prime;
 initial begin
-$value$plusargs("N=%0d",N);
+$value$plusargs("N=%0d",N);   //EX N=30
 for(i=2;i<N;i=i+1) begin
 prime=1;
 for(j=2;j<i;j=j+1)begin
