@@ -11,7 +11,7 @@ if(i%j==0)
 prime=0;
 end
 if(prime==1)
-$display("prime=%d",i);
+  $display("prime=%0d",i);
 end
 $finish;
 end
